@@ -31,4 +31,7 @@ whats internet of things
 -phyisical objek
 -controlers sensor and aquators
 
+program penanaman yang dilakukan secara prossedur yang telah di terapkan 
+
+
 
