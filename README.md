@@ -19,3 +19,16 @@ ada beberapa problematika pertanian di Indonesia, ada solusi juga
 -manajemen modern
 -orientasi pasar (lokal & global) 
 -SDM kompeten
+
+-sensor and information technology
+ 1.0 -mechanical
+ 2.0 -electrical
+ 3.0 -internet
+ 4.0 -digital
+
+
+whats internet of things
+-phyisical objek
+-controlers sensor and aquators
+
+
